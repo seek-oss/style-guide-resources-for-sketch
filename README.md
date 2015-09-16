@@ -15,7 +15,9 @@ Make sure the template is stored in
 
 This will make the template available in the 'File > New From Template >' menu
 
-If you are using GitHub, clone the repository to the folder above.
+If you are using GitHub you can clone the repository to the folder above.
+
+**Note:** On most Macs, the ``~/Library/`` folder is not shown by default. [Read how to show it.](http://osxdaily.com/2013/10/28/show-user-library-folder-os-x-mavericks/)
 
 ### What's in the template
 1. **Sticker sheet**
